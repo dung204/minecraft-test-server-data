@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "f070b068-d45d-3139-a4b1-c9112165cddd",
+    "name": "mantrilogix",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
